@@ -1,0 +1,7 @@
+1. Tổng quan về LinkedList
+   Trong linkedList gồm 2 thành phần:
+   	+ Chứa 1 con trỏ (tham chiếu tới object (node) bên cạnh (phía bên phải)
+   	+ Chứa data
+2. Về mặt hiệu năng
+	+ LinkedList sử dụng dymanmic memory..
+	+ Tùy từng phương thức mà LinkedList sẽ nhanh hoặc chậm hơn so với ArrayList
